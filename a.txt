@@ -1,2 +1,5 @@
 hdsadas
+<<<<<<< HEAD
 adsdas
+=======
+>>>>>>> parent of 5584654... dosya 3.kere güncellendi
